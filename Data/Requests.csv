@@ -1,0 +1,21 @@
+rid,category,description,sid,status,prof_id
+1,Physical Health,Cold,1,Approved,1
+2,Physical Health,Fever,2,Approved,2
+3,Physical Health,Covid,3,Approved,3
+4,Mental Health,Depression,4,Approved,4
+5,Mental Health,ADHD,5,Approved,5
+6,Physical Health,Covid,6,Pending,6
+7,Physical Health,Covid,7,Approved,7
+8,Mental Health,Anxiety,8,Pending,8
+9,Mental Health,Depression,9,Approved,9
+10,Physical Health,Covid,10,Pending,10
+11,Physical Health,Fever,11,Approved,11
+12,Mental Health,Depression,12,Pending,12
+13,Mental Health,Bipolar,13,Pending,13
+14,Physical Health,Fever,14,Pending,14
+15,Physical Health,Fever,15,Approved,15
+16,Mental Health,Bipolar,16,Approved,16
+17,Physical Health,Fever,17,Pending,17
+18,Mental Health,PTSD,18,Pending,18
+19,Mental Health,PTSD,19,Approved,19
+20,Physical Health,Fever,20,Pending,20

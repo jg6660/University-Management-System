@@ -1,0 +1,21 @@
+cid,cname,day,time,dept,bname
+CS1,Algorithms,Monday,10:00,CS,Dibner
+CS2,Machine Learning,Wednesday,13:00,CS,Emerald
+CS3,Big Data,Thursday,18:00,CS,Bobst
+CS4,Java,Tuesday,18:00,CS,Bobst
+CE1,Probability,Friday,11:00,CE,Dibner
+CE2,Digital Signal Processing,Monday,9:00,CE,Emerald
+CE3,Embedded Systems,Tuesday,14:00,CE,Bobst
+CE4,Power Electronics,Thursday,18:00,CE,Duane
+MOT1,Thermodynamic,Monday,10:00,MOT,Diamond
+MOT2,Mechanics,Monday,18:00,MOT,Diamond
+MOT3,Friction,Tuesday,18:00,MOT,Atlas
+MOT4,Rotational Mechanics,Thursday,10:00,MOT,Atlas
+Cybersecurity1,Application Security,Monday,14:00,CyberSecurity,Carlson
+Cybersecurity2,Network Security,Tuesday,10:00,CyberSecurity,Carlson
+Cybersecurity3,Cloud Security,Thursday,18:00,CyberSecurity,Cristol
+Cybersecurity4,Internet Security,Monday,14:00,CyberSecurity,Cristol
+CS5,Artificial Intelligence,Wednesday,10:00,CS,Duane
+CE5,Operating System,Tuesday,18:00,CE,Fiske
+MOT5,Applied Physics,Thursday,14:00,MOT,Fiske
+Cybersecurity5,Cybersecurity 101,Monday,10:00,CyberSecurity,Ruby

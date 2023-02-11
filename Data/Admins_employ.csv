@@ -1,0 +1,31 @@
+aid,afirst,alast,aphno,email,address,dob,uname
+1,Liam,Lawson,5637930936,li@gmail.com,"123,4th st",01/10/1990,New York University
+2,Noah,Centinio,6574923040,no@gmail.com,"456,5th st",02/11/1987,New York University
+3,Oliver,Green,7685768907,ol@gmail.com,"789,6th st",03/13/1992,New York University
+4,Elijah,Ahmadullah,6789056789,el@gmail.com,"159,7th st",04/15/1993,New York University
+5,James,Watson,6785674567,ja@gmail.com,"753,8th st",05/20/1985,Stanford University
+6,Will,Kill,5678904568,wi@gmail.com,"486,9th st",06/17/1980,Stanford University
+7,Ben,Lucas,5647382948,be@gmail.com,"246,10th st",07/20/1991,Stanford University
+8,Lucas,Mucas,9872346737,lu@gmail.com,"148,11th st",05/22/1991,Stanford University
+9,Henry,Cavill,6347381738,he@gmail.com,"479,12th st",06/23/1994,Yale University
+10,Theo,Oliver,6578902378,th@gmail.com,"998,13th st",05/20/1970,Yale University
+11,Emma,Watson,5674563456,em@gmail.com,"367,15th st",06/21/1991,Yale University
+12,Charlie,Chaplin,5758393098,ch@gmail.com,"354,16th st",08/28/1995,Yale University
+13,Amy,Cooper,7684930294,am@gmail.com,"447,17th st",09/05/1960,Columbia University
+14,Ava,Henderson,6748203490,av@gmail.com,"897,18th st",12/05/1999,Columbia University
+15,Sophia,Lawerence,5769201375,so@gmail.com,"565,19th st",11/18/1998,Duke University
+16,Bella,Stephanie,3794028594,be@gmail.com,"119,20th st",10/27/1998,Duke University
+17,Mia,Lit,5849285678,mi@gmail.com,"519,86th st",09/13/1971,Rice University
+18,Eve,Hamilton,8489023456,ev@gmail.com,"774,41st st",09/16/1978,Rice University
+19,Harper,Junior,5673893867,ha@gmail.com,"280,20th st",08/28/1964,Cambridge University
+20,Aaron,Korsch,9884566210,ak@gmail.com,"290,21st st",08/10/1965,Cambridge University
+21,Jim ,Parsons,7544268522,jp@gmail.com,"300,22nd st",01/04/1965,Caltech
+22,Kaley,Cuoco,9774512005,kc@gmail.com,"310,23rd st",01/08/1966,Caltech
+23,Johnny,Galecki,8744512566,jg@gmail.com,"320,24th st",01/12/1967,Caltech
+24,Simon,Helberg,2001458790,sh@gmail.com,"330,25th st",01/16/1964,New York University
+25,Mayim,Bialik,7850054102,mb@gmail.com,"340,36th st",02/20/1965,New York University
+26,Kunal,Nayyar,6560175006,kn@gmail.com,"350,37th st",02/24/1966,New York University
+27,Melissa,Rauch,3540122587,mr@gmail.com,"360,38th st",02/28/1969,New York University
+28,Kevin,Sussman,9744025134,ks@gmail.com,"370,39th st",03/31/1965,New York University
+29,Will,Wheatom,5447028990,ww@gmail.com,"380,40th st",03/10/1970,New York University
+30,Laura ,Spencer,9774563210,ls@gmail.com,"390,41st st",05/15/1968,New York University

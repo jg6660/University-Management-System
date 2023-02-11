@@ -1,0 +1,31 @@
+sid,sfirst,slast,phno,email,address,dob,dept,MS
+1,Rahul,Khanna,1234567891,rahul.khanna@gmail.com,"519, 88th st",01/28/1998,CS,MS
+2,Aman,Srivastava,2456578887,aman.srivatsava@gmail.com,"245,24th st",02/24/1999,CS,MS
+3,Arun,Archish,3355566888,arun.archish@gmail.com,"21,111th st",03/12/1999,CS,MS
+4,Caicedo,Daniel,1597538526,caicedo@gmail.com,"789,55th st",04/10/1998,CE,MS
+5,Carvajal,Kenny,4569872587,carvajal@gmail.com,"366,57th st",05/11/1998,CE,MS
+6,Caho,Stacy,2587896543,caho.stacy@gmail.com,"112,92nd st",06/12/1999,CE,MS
+7,Chen,Julie,3699877415,chen.julie@gmail.com,"45,53rd st",07/13/1998,MOT,MS
+8,Lee,Micheal,2587413698,lee@gmail.com,"752,77th st",08/20/1998,MOT,MS
+9,Cribbs,Liam,7642648423,cribbs.liam@gmail.com,"654,25th st",09/21/1999,Cybersecurity,MS
+10,Ding,Alice,6467262032,ding.alice@gmail.com,"247,34th st",10/28/1998,Cybersecurity,MS
+11,Micheal,Jordan,4487952163,jordan.micheal@gmail.com,"745,55th st",05/21/1999,CS,MS
+12,Stephen,Curry,2254789661,curry.stephen@gmail.com,"654,80th st",04/28/1998,CS,MS
+13,Lebron,James,3654789662,james.lebron@gmail.com,"784,21st st",11/18/1998,CS,MS
+14,Kevin,Durant,2014489662,durant.kevin@gmail.com,"23,99th st",12/16/1998,Cybersecurity,MS
+15,Luka,Doncic,6457892588,doncic.luka@gmail.com,"105,110th st",07/31/1998,Cybersecurity,MS
+16,Jayson,Tatum,5448796682,tatum.jayson@gmail.com,"644,79th st",08/30/1998,CE,MS
+17,Charles,Barkley,3664788952,barkley.charles@gmail.com,"321,32nd st",01/02/1998,CE,MS
+18,Klay,Thompson,9848532648,thompson.kaly@gmail.com,"200,41st st",05/09/1999,MOT,MS
+19,Draymond,Green,9644875230,green.draymond@gmail.com,"379,64th st",09/09/1998,MOT,MS
+20,Jaylen,Brown,5028790064,brown.jaylen@gmail.com,"455,87th st",06/10/1998,MOT,MS
+21,Ann ,Emery,9884455213,emery.ann@gmail.com,"460,65th st",07/01/1998,CS,MS
+22,Emilia,Clarke,2554166874,clarke.emilia@gmail.com,"470,66th st",07/10/1998,CS,MS
+23,Kit,Harrington,1022547889,harrington.kit@gmail.com,"480,67th st",08/03/1999,CS,MS
+24,Sophie,Turner,9008825540,turner.sophie@gmail.com,"490,68th st",08/04/1998,CE,MS
+25,Maisey,Williams,6540058832,williams.maisey@gmail.com,"500,69th st",10/05/1998,CE,MS
+26,Lena,Headey,3025879546,headey.lena@gmail.com,"510,70th st",11/15/1998,MOT,MS
+27,Jason,Momoa,7890054122,momoa.jason@gmail.com,"520,71st st",04/10/1999,MOT,MS
+28,Natalie,Dormer,9807456210,dormer.natalie@gmail.com,"530,72nd st",09/12/1998,MOT,MS
+29,Rose,Leslie,8722501456,leslie.rose@gmail.com,"540,73rd st",11/19/1998,Cybersecurity,MS
+30,Richard,Madden,6458821344,madden.richard@gmail.com,"550,74th st",02/21/1999,Cybersecurity,MS

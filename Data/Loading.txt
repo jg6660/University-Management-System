@@ -1,0 +1,36 @@
+cat final_project/Data/Admins_employ.csv | psql -U ps4351 -d ps4351_db -c “COPY
+Admins_employ from STDIN CSV HEADER”
+cat final_project/Data/Apply_to.csv | psql -U ps4351 -d ps4351_db -c “COPY Apply_to
+from STDIN CSV HEADER”
+cat final_project/Data/Buildings_belong_to.csv | psql -U ps4351 -d ps4351_db -c “COPY
+Buildings_belong_to from STDIN CSV HEADER”
+cat final_project/Data/Classes_Located.csv | psql -U ps4351 -d ps4351_db -c “COPY
+Classes_Located from STDIN CSV HEADER”
+cat final_project/Data/Dorms.csv | psql -U ps4351 -d ps4351_db -c “COPY Dorms from
+STDIN CSV HEADER”
+cat final_project/Data/Employs.csv | psql -U ps4351 -d ps4351_db -c “COPY Employs
+from STDIN CSV HEADER”
+cat final_project/Data/Enroll.csv | psql -U ps4351 -d ps4351_db -c “COPY Enroll from
+STDIN CSV HEADER”
+cat final_project/Data/Live.csv | psql -U ps4351 -d ps4351_db -c “COPY Live from
+STDIN CSV HEADER”
+cat final_project/Data/Pay.csv | psql -U ps4351 -d ps4351_db -c “COPY Pay from
+STDIN CSV HEADER”
+cat final_project/Data/Payments.csv | psql -U ps4351 -d ps4351_db -c “COPY
+Payments from STDIN CSV HEADER”
+cat final_project/Data/Professors.csv | psql -U ps4351 -d ps4351_db -c “COPY
+Professors from STDIN CSV HEADER”
+cat final_project/Data/Requests.csv | psql -U ps4351 -d ps4351_db -c “COPY Requests
+from STDIN CSV HEADER”
+cat final_project/Data/Rooms_have.csv | psql -U ps4351 -d ps4351_db -c “COPY
+Rooms_have from STDIN CSV HEADER”
+cat final_project/Data/Schools_partof.csv | psql -U ps4351 -d ps4351_db -c “COPY
+Schools_partof from STDIN CSV HEADER”
+cat final_project/Data/Send_to.csv | psql -U ps4351 -d ps4351_db -c “COPY Send_to
+from STDIN CSV HEADER”
+cat final_project/Data/Students.csv | psql -U ps4351 -d ps4351_db -c “COPY Students
+from STDIN CSV HEADER”
+cat final_project/Data/Taught.csv | psql -U ps4351 -d ps4351_db -c “COPY Taught from
+STDIN CSV HEADER”
+cat final_project/Data/Universities.csv | psql -U ps4351 -d ps4351_db -c “COPY
+Universities from STDIN CSV HEADER”
