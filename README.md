@@ -38,4 +38,4 @@ University Information: The user can see the complete details of both the school
 Buildings Information: The user can enter the name of a school and building along with a start and end time and we display the details of all the classes which take place in that building during that time frame.
 
 ## Entity Relationship diagram of the application is as follows.
-![This is an image](PDS_Final_ER_Diagran.png)
+![This is an image](ER_Abstract.png)
