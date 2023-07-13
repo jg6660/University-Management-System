@@ -36,3 +36,6 @@ Dorm Information: Students can see the details of their dorms here.
 The user can perform the following tasks in this module:
 University Information: The user can see the complete details of both the schools which are part of the university as well as the buildings which belong to it.
 Buildings Information: The user can enter the name of a school and building along with a start and end time and we display the details of all the classes which take place in that building during that time frame.
+
+## Entity Relationship diagram of the application is as follows.
+![This is an image](PDS_Final_ER_Diagran.png)
